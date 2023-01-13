@@ -1,0 +1,5 @@
+D:\vs项目\CAO Language\CAO Language\bin\Debug\CAO Language.exe
+D:\vs项目\CAO Language\CAO Language\bin\Debug\CAO Language.pdb
+D:\vs项目\CAO Language\CAO Language\obj\x86\Debug\CAO Language.exe
+D:\vs项目\CAO Language\CAO Language\obj\x86\Debug\CAO Language.pdb
+D:\vs项目\CAO Language\CAO Language\obj\x86\Debug\CAO Language.csprojResolveAssemblyReference.cache
